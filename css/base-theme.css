@@ -1,0 +1,40 @@
+.main-menu .pad { background-color: #f41d2f }
+#topcatz .sf-menu li:hover,
+#topcatz .sf-menu li:focus { background-color: #dc1829 }
+.lBox .pad,
+.rBox .pad,
+.scroll.boxed .pad { background-color: #ffffff }
+.block-title,
+td#CentralArea div.fpcc,
+#LeftPanel .v4title { background-color: #4d4d4d }
+.lBox .pad,
+.rBox .pad,
+.scroll.boxed .pad { color: #461818 }
+.block-title,
+td#CentralArea div.fpcc,
+#LeftPanel .v4title { color: #ffffff }
+.essBody, table.tb_v4bc ~ table, #ess-foot background-color: #eeeeee }
+.main-head .pad { background-color: #ffffff }
+.infoBox .pad { background-color: #ffffff }
+.header-top .pad { background-color: #ffffff }
+.btn-theme,
+.slider .item span,
+#fdback a.mre,
+.panel .readmore,
+.join a.btn-theme,
+.scroll input:nth-child(1):checked ~ .active label:nth-child(1),
+.scroll input:nth-child(2):checked ~ .active label:nth-child(2),
+.scroll input:nth-child(3):checked ~ .active label:nth-child(3),
+.scroll input:nth-child(4):checked ~ .active label:nth-child(4),
+.scroll input:nth-child(5):checked ~ .active label:nth-child(5),
+.scroll input:nth-child(6):checked ~ .active label:nth-child(6),
+.scroll input:nth-child(7):checked ~ .active label:nth-child(7),
+.scroll input:nth-child(8):checked ~ .active label:nth-child(8),
+.scroll input:nth-child(9):checked ~ .active label:nth-child(9),
+.scroll input:nth-child(10):checked ~ .active label:nth-child(10) { background-color: #f41d2f }
+.essTabs input:checked + label,
+.essTabs label:hover,
+.panel:before { background-color: #4d4d4d }
+.essTabs label { background-color: #989898 }
+.foot-links .pad { background-color: #4d4d4d }
+.foot-links .pad { color: #ffffff }

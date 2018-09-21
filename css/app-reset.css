@@ -1,0 +1,55 @@
+.block-title,
+td#CentralArea div.fpcc,
+#LeftPanel .v4title,
+.join,
+.join a.btn-theme,
+.foot-links h6,
+.panel .readmore,
+.essTabs label,
+.slider .item span{ text-transform: none; }
+.scroll .item a { background: none; }
+.join { margin-bottom: 15px; }
+.block-title,
+td#CentralArea div.fpcc,
+#LeftPanel .v4title { border: 1px solid #e6e6e6; border-bottom: 0; }
+.foot-links .has-divider .col:after { border-right: 1px solid; }
+.shoplogo img { border: 0 none; max-height: 80px; max-width:350px; }
+.shoplogo .store-name{ font-size:44px; }
+.shoplogo .store-slogan{ font-size:13px; }
+
+.essApp #ess-foot,
+.essApp .cpyright{ margin-bottom: 0!important; }
+
+.vScroll .item a,
+.scroll .item a,
+#LeftPanel .v4midBox ul li { color: inherit; }
+.scroll .item a,
+.vScroll .item a,
+.vScroll .item div { border: 0 !important; padding: 0 !important; }
+.vScroll .item .imgBox img { max-width: 100%; max-height: 100%; width: auto; }
+
+.infoBox .pad{ border:0; background-color: #eee; }
+
+
+ .essWrap a:hover,
+ .ess-colLeft a:hover,
+ .slider .controls label:hover,
+ #LeftPanel .v4midBox ul li a:hover,
+ #fdback a.mre:hover,
+ .join a.btn-theme:hover,
+ .essTabs label:hover,
+ .panel a:hover,
+ .mdl-Box .readmore:hover{
+     opacity: 0.8;
+ }
+
+
+.join a.btn-theme,
+.slider .item span,
+.btn-theme{ border:1px solid; }
+
+
+.essBody td#CentralArea div.dynpg form{ margin-bottom:0; }
+
+#LeftPanel{ height: auto; }
+td#CentralArea table.gallery:hover{ box-shadow: none; }

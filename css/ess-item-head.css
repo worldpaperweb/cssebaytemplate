@@ -1,0 +1,12 @@
+@import url(https://fonts.googleapis.com/icon?family=Material+Icons);
+@import url(general.css);
+@import url(carousel.css);
+@import url(item.css);
+@import url(item-mr.css);
+@import url(general-mr.css);
+@import url(app-reset.css);
+@media only screen and (max-width:1024px){
+
+/*CSS media query within a stylesheet*/
+
+}
