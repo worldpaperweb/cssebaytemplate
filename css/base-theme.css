@@ -34,7 +34,7 @@ td#CentralArea div.fpcc,
 .scroll input:nth-child(10):checked ~ .active label:nth-child(10) { background-color: #f41d2f }
 .essTabs input:checked + label,
 .essTabs label:hover,
-.panel:before { background-color: #4d4d4d }
+.panel:before { background-color: #5656cc }
 .essTabs label { background-color: #989898 }
-.foot-links .pad { background-color: #4d4d4d }
+.foot-links .pad { background-color: #5656cc }
 .foot-links .pad { color: #ffffff }
